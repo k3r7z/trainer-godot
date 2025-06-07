@@ -1,0 +1,20 @@
+[gd_scene load_steps=4 format=3 uid="uid://cj86ax7vu3dii"]
+
+[ext_resource type="Script" uid="uid://cwh8cufhtesfm" path="res://Aircraft/Script/main.gd" id="1_r1c1y"]
+[ext_resource type="Texture2D" uid="uid://bal2j8juo2et6" path="res://Aircraft/Sprite/plane.svg" id="2_agae0"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_4l313"]
+radius = 12.5025
+
+[node name="Aircraft" type="Area2D"]
+position = Vector2(389, 285)
+script = ExtResource("1_r1c1y")
+metadata/_edit_group_ = true
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+scale = Vector2(4, 4)
+shape = SubResource("CircleShape2D_4l313")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+rotation = 2.35619
+texture = ExtResource("2_agae0")

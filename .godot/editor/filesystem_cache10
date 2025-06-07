@@ -1,0 +1,12 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1749287757
+icon.svg::CompressedTexture2D/CompressedTexture2D::9070991464000501914::1748450003::1748450014::1::::<><><>0<>0<>d2212786ad8ef00e9b3e2b2f215aded4<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://Aircraft/::1748452331
+::res://Aircraft/Scene/::1749287244
+Main.tscn::PackedScene::5474548911240996068::1749287244::0::1::::<><><>0<>0<><>::uid://cwh8cufhtesfm::::res://Aircraft/Script/main.gd<>uid://bal2j8juo2et6::::res://Aircraft/Sprite/plane.svg
+::res://Aircraft/Script/::1749287521
+main.gd::GDScript::6333454862585077614::1749287521::0::1::::<>Area2D<><>0<>0<><>::
+::res://Aircraft/Sprite/::1748965307
+plane.svg::CompressedTexture2D/CompressedTexture2D::2410786018039875373::1748965293::1748965178::1::::<><><>0<>0<>7f9f1dbe20cfba835f1dff1d0ff3cb07<>res://.godot/imported/plane.svg-50748d79a20503087eb6a11c1b92f84f.ctex::
+::res://Quiz/::1749287521
+control.tscn::PackedScene::1946595682867118290::1749287885::0::1::::<><><>0<>0<><>::
